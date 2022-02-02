@@ -1,0 +1,17 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "description": "lee excel, para luego comunicarse con la api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mclovin Felipe",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "eslint": "^8.8.0",
+    "read-excel-file": "^5.2.26",
+    "xlsx-parse-json": "^3.1.1"
+  }
+}

@@ -1,0 +1,5167 @@
+[
+  {
+
+    "tipoDocumento": "TIPO_DOC_IDENTIFICA",
+    
+    "numeroDocumento": "NUMERO_DOC_IDENTIFICA",
+    
+    "nombre": "NOMBRES",
+    
+    "apellidoPaterno": "AP_PATERNO",
+    
+    "apellidoMaterno": "AP_MATERNO",
+    
+    "telefonoContacto": "TELEFONO_1",
+    
+    "emailContacto": "EMAIL",
+    
+    "codigoPrevision": "RUT_PREVISION",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "REGION",
+    
+    "codigoComuna": "COMUNA",
+    
+    "calle": "DIRECCION",
+    
+    "numeroCasa": "NUMERO_CASA",
+    
+    "numeroDpto": "NUMERO_DEPTO",
+    
+    "sector": "SECTOR"
+    
+    },
+    
+    "sexo": "SEXO",
+    
+    "fechaNacimiento": "FECHA_DE_NACIMIENTO"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "18518139",
+    
+    "nombre": "LYA CONSTANZA",
+    
+    "apellidoPaterno": "QUIROZ",
+    
+    "apellidoMaterno": "ALVAREZ",
+    
+    "telefonoContacto": "958118383",
+    
+    "emailContacto": "lyaconstanza20@gmail.com",
+    
+    "codigoPrevision": "190",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "13",
+    
+    "codigoComuna": "324",
+    
+    "calle": "SANTA ISABEL",
+    
+    "numeroCasa": "747",
+    
+    "numeroDpto": "1002",
+    
+    "sector": "."
+    
+    },
+    
+    "sexo": "FE",
+    
+    "fechaNacimiento": "Mon Apr 19 1993 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "18909920",
+    
+    "nombre": "RUBEN",
+    
+    "apellidoPaterno": "AVILES",
+    
+    "apellidoMaterno": "CHOQUE",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "rwruben0504@gmail.com",
+    
+    "codigoPrevision": "190",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "VENEZUELA",
+    
+    "numeroCasa": "2977",
+    
+    "numeroDpto": "B",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Fri May 03 1991 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "16484087",
+    
+    "nombre": "ELIZABETH ANDREA",
+    
+    "apellidoPaterno": "GOMEZ",
+    
+    "apellidoMaterno": "RIVERA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "ps.elizabethgomez@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "5",
+    
+    "codigoComuna": "408",
+    
+    "calle": "FORTUNA",
+    
+    "numeroCasa": "1014",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Sat Mar 07 1987 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "16586182",
+    
+    "nombre": "JOSE FEDERICO",
+    
+    "apellidoPaterno": "GALLARDO",
+    
+    "apellidoMaterno": "ANDRADE",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "josf.87@gmail.com",
+    
+    "codigoPrevision": "801",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "ARQUITECTO CARLOS VALENTIN GARCIA",
+    
+    "numeroCasa": "3206",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Thu Jul 16 1987 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "15095054",
+    
+    "nombre": "CRISTINA ISABEL",
+    
+    "apellidoPaterno": "FUENTEALBA",
+    
+    "apellidoMaterno": "PIMENTEL",
+    
+    "telefonoContacto": "8982888",
+    
+    "emailContacto": "cristina.fuentealba@gmail.com",
+    
+    "codigoPrevision": "190",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "5",
+    
+    "codigoComuna": "409",
+    
+    "calle": "SAN CAMILO DE LELIS 298",
+    
+    "numeroCasa": "24",
+    
+    "numeroDpto": "null",
+    
+    "sector": "."
+    
+    },
+    
+    "sexo": "FE",
+    
+    "fechaNacimiento": "Thu Feb 04 1982 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "7313423",
+    
+    "nombre": "CARLOS",
+    
+    "apellidoPaterno": "FLORES",
+    
+    "apellidoMaterno": "GONZALEZ",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "cfloresg2004@yahoo.es",
+    
+    "codigoPrevision": "96502530",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "ANTARES",
+    
+    "numeroCasa": "581",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Sun Mar 13 1960 20:00:00 GMT-0400 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "13214863",
+    
+    "nombre": "CRISTIAN",
+    
+    "apellidoPaterno": "VELASQUEZ",
+    
+    "apellidoMaterno": "VELASQUEZ",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "cristianvelasquez@gmail.com",
+    
+    "codigoPrevision": "96572800",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "SALVADOR ALLENDE",
+    
+    "numeroCasa": "null",
+    
+    "numeroDpto": "92 A",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Sun Jul 10 1977 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "7713395",
+    
+    "nombre": "DINA",
+    
+    "apellidoPaterno": "CABRERA",
+    
+    "apellidoMaterno": "OLIVARES",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "cabrera.dina@gmail.com",
+    
+    "codigoPrevision": "96522500",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "FRANCISCO ENCINA",
+    
+    "numeroCasa": "2686",
+    
+    "numeroDpto": "LONCO NORTE",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Thu Feb 16 1956 20:00:00 GMT-0400 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "18029811",
+    
+    "nombre": "SANDRA",
+    
+    "apellidoPaterno": "JEREZ",
+    
+    "apellidoMaterno": "DE LA FUENTE",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "sjerezd@gmail.com",
+    
+    "codigoPrevision": "190",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "RAMÓN RAMÍREZ",
+    
+    "numeroCasa": "1225",
+    
+    "numeroDpto": "0",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Thu Oct 24 1991 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "13735919",
+    
+    "nombre": "CLAUDIO LEONARDO",
+    
+    "apellidoPaterno": "BOBADILLA",
+    
+    "apellidoMaterno": "ROMERO",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "cbobadillaromero@gmail.com",
+    
+    "codigoPrevision": "94954000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "10",
+    
+    "codigoComuna": "249",
+    
+    "calle": "PASAJE LAGUNA ESCONDIDA - VALLE VOLCANES",
+    
+    "numeroCasa": "4953",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Thu May 10 1979 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "26536838",
+    
+    "nombre": "ERVIN ERNESTO",
+    
+    "apellidoPaterno": "ANDRADE",
+    
+    "apellidoMaterno": "INCIARTE",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "ervin.andrade@hotmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "AV EDMUNDO PEREZ ZUJOVIC",
+    
+    "numeroCasa": "5490",
+    
+    "numeroDpto": "1109D",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Sun Sep 23 1990 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "16741562",
+    
+    "nombre": "ERIK",
+    
+    "apellidoPaterno": "PEREZ",
+    
+    "apellidoMaterno": "QUEZADA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "ingenierik@gmail.com",
+    
+    "codigoPrevision": "190",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "MANUEL ANTONIO TOCORNAL",
+    
+    "numeroCasa": "588",
+    
+    "numeroDpto": "811",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Thu Aug 13 1987 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "17800426",
+    
+    "nombre": "MIGUEL ANGEL",
+    
+    "apellidoPaterno": "ESQUIVEL",
+    
+    "apellidoMaterno": "ARZOLA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "nort_hpc@live.cl",
+    
+    "codigoPrevision": "96856780",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "PASAJE MAX JARA",
+    
+    "numeroCasa": "4083",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Fri Jul 12 1991 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "12005761",
+    
+    "nombre": "YANILA",
+    
+    "apellidoPaterno": "GONZALEZ",
+    
+    "apellidoMaterno": "PIZARRO",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "yany.gonpiza@hotmail.com",
+    
+    "codigoPrevision": "190",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "ARTURO PRAT",
+    
+    "numeroCasa": "590",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Fri Mar 16 1973 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "10041765",
+    
+    "nombre": "CAROLINA PIA",
+    
+    "apellidoPaterno": "CAMELIO",
+    
+    "apellidoMaterno": "NAZOR",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "ccamelio.9@sea.gob.cl",
+    
+    "codigoPrevision": "96522500",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "HERNAN CORTES",
+    
+    "numeroCasa": "1661",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Mon Mar 10 1975 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "15844682",
+    
+    "nombre": "PAULA",
+    
+    "apellidoPaterno": "RAMIREZ",
+    
+    "apellidoMaterno": "AMIGO",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "paula.ramirezamigo@gmail.com",
+    
+    "codigoPrevision": "94954000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "ESMERALDA",
+    
+    "numeroCasa": "1428",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Mon Apr 23 1984 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "8878592",
+    
+    "nombre": "JACQUELINE KAREN",
+    
+    "apellidoPaterno": "ATALA",
+    
+    "apellidoMaterno": "RIFFO",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "jk.atala@gmail.com",
+    
+    "codigoPrevision": "801",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "NAPOLEON",
+    
+    "numeroCasa": "3059",
+    
+    "numeroDpto": "504",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Sat Oct 19 1963 20:00:00 GMT-0400 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "6406821",
+    
+    "nombre": "LUIS",
+    
+    "apellidoPaterno": "CERPA",
+    
+    "apellidoMaterno": "LOPEZ",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "cerpa.lopez.luis@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "5",
+    
+    "codigoComuna": "408",
+    
+    "calle": "LA PORTADA",
+    
+    "numeroCasa": "748",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Tue Nov 13 1951 20:00:00 GMT-0400 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "19226925",
+    
+    "nombre": "PRUEBA TI",
+    
+    "apellidoPaterno": "PRUEBA TI",
+    
+    "apellidoMaterno": "PRUEBA TI",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "maria.gatica@falp.org",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "null",
+    
+    "numeroCasa": "null",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Thu Jan 05 2006 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "10294795",
+    
+    "nombre": "RUMEDIL PATRICIO",
+    
+    "apellidoPaterno": "PEREZ",
+    
+    "apellidoMaterno": "JIMENEZ",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "pperezj@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "HUERFANOS",
+    
+    "numeroCasa": "1555",
+    
+    "numeroDpto": "1714",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Sun Sep 12 1965 20:00:00 GMT-0400 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "27140934",
+    
+    "nombre": "YENNY",
+    
+    "apellidoPaterno": "MENDEZ",
+    
+    "apellidoMaterno": "ALEGRIA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "ymendal@gmail.com",
+    
+    "codigoPrevision": "94954000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "ARTURO PRAT 1312",
+    
+    "numeroCasa": "null",
+    
+    "numeroDpto": "708",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Mon May 28 1979 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "18236486",
+    
+    "nombre": "JAIME",
+    
+    "apellidoPaterno": "VERDUGO",
+    
+    "apellidoMaterno": "ARAVENA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "j.verdugo.a@gmail.com",
+    
+    "codigoPrevision": "94954000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "EL MORRO",
+    
+    "numeroCasa": "3000",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Fri Aug 21 1992 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "12056795",
+    
+    "nombre": "JOSE",
+    
+    "apellidoPaterno": "AEDO",
+    
+    "apellidoMaterno": "JARA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "jose.aedo.jara@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "LISBOA",
+    
+    "numeroCasa": "2922",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Sun Aug 24 1980 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "13066026",
+    
+    "nombre": "JUAN PEDRO",
+    
+    "apellidoPaterno": "EBERHARD",
+    
+    "apellidoMaterno": "AGUIRRE",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "juan.eberhard@gmail.com",
+    
+    "codigoPrevision": "96522500",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "PENINSULA DEL LAGO PARCELA",
+    
+    "numeroCasa": "25",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Tue Mar 16 1976 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "14103373",
+    
+    "nombre": "HECTOR",
+    
+    "apellidoPaterno": "SAGREDO",
+    
+    "apellidoMaterno": "VALDIVIA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "hector.sagredo.valdivia@gmail.com",
+    
+    "codigoPrevision": "96856780",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "IGNACIO DE LOYOLA 1180 BLOCK 19 DPTO 202",
+    
+    "numeroCasa": "202",
+    
+    "numeroDpto": "19",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Wed Apr 08 1981 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "17043232",
+    
+    "nombre": "SAMUEL",
+    
+    "apellidoPaterno": "MUÑOZ",
+    
+    "apellidoMaterno": "LEAL",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "samuelmunozleal@gmail.com",
+    
+    "codigoPrevision": "96522500",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "RUTA T 350",
+    
+    "numeroCasa": "3701",
+    
+    "numeroDpto": "403B",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Sun Oct 23 1988 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "17020674",
+    
+    "nombre": "ANGELICA",
+    
+    "apellidoPaterno": "CORTES",
+    
+    "apellidoMaterno": "DIAZ",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "acortesdiaz1@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "PASAJE SUBTENIENTE ARTURO PÉREZ CANTO #7484",
+    
+    "numeroCasa": "7484",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Sat Jun 03 1989 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "12771065",
+    
+    "nombre": "ANA MARIA",
+    
+    "apellidoPaterno": "VALLEJO",
+    
+    "apellidoMaterno": "ARAYA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "vallejo_ana@yahoo.com",
+    
+    "codigoPrevision": "190",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "2",
+    
+    "codigoComuna": "79",
+    
+    "calle": "TRUMAO",
+    
+    "numeroCasa": "1100",
+    
+    "numeroDpto": "93",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Sat Jul 27 1974 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "16302260",
+    
+    "nombre": "FRANCISCO",
+    
+    "apellidoPaterno": "ALMONACID",
+    
+    "apellidoMaterno": "FAUNDEZ",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "francisco.almonacid@gmail.com",
+    
+    "codigoPrevision": "96856780",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "CHACABUCO",
+    
+    "numeroCasa": "370",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Tue Aug 19 1986 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "15774826",
+    
+    "nombre": "VALERIA",
+    
+    "apellidoPaterno": "GUINRICE",
+    
+    "apellidoMaterno": "ZUÑIGA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "valucita@gmail.com",
+    
+    "codigoPrevision": "94954000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "BELÉN",
+    
+    "numeroCasa": "2726",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Thu Nov 03 1983 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "10847068",
+    
+    "nombre": "CARLOS",
+    
+    "apellidoPaterno": "MONARDEZ",
+    
+    "apellidoMaterno": "IRARRAZABAL",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "cdmonardez@gmail.com",
+    
+    "codigoPrevision": "190",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "PINTOR PACHECO ALTAMIRANO",
+    
+    "numeroCasa": "225",
+    
+    "numeroDpto": "G",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Mon May 01 1967 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "8634402",
+    
+    "nombre": "ALFONSO ENRIQUE",
+    
+    "apellidoPaterno": "MONDACA",
+    
+    "apellidoMaterno": "VERA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "alfonso.mondaca@sii.cl",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "7",
+    
+    "codigoComuna": "362",
+    
+    "calle": "9 Y MEDIA SUR",
+    
+    "numeroCasa": "3431",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Sat Nov 15 1958 20:00:00 GMT-0400 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "11065342",
+    
+    "nombre": "CARLOS",
+    
+    "apellidoPaterno": "TORO",
+    
+    "apellidoMaterno": "REINOSO",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "lebasi1602@gmail.com",
+    
+    "codigoPrevision": "96572800",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "EPSILON 1798, CONDOMINIO SOL DEL PACÍFICO IV",
+    
+    "numeroCasa": "null",
+    
+    "numeroDpto": "T 21",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Tue Aug 30 1966 20:00:00 GMT-0400 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "9159571",
+    
+    "nombre": "ROSA",
+    
+    "apellidoPaterno": "OLIVARES",
+    
+    "apellidoMaterno": "VIVANCO",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "kote.3133@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "EL PEUMO",
+    
+    "numeroCasa": "45",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Fri Aug 26 1960 20:00:00 GMT-0400 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "15802535",
+    
+    "nombre": "MARITZA ALEJANDRA",
+    
+    "apellidoPaterno": "ESPINOZA",
+    
+    "apellidoMaterno": "JOFRE",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "her_mary@hotmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "GUILLERMO PALMA 1575 VILLA EL PORTAL",
+    
+    "numeroCasa": "1575",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Tue Oct 16 1984 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "3",
+    
+    "numeroDocumento": "104444652",
+    
+    "nombre": "NELLY",
+    
+    "apellidoPaterno": "TAMAYO",
+    
+    "apellidoMaterno": "YAÑEZ",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "n.veronica.tamayo@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "PASAJE BLANCA ESTELA",
+    
+    "numeroCasa": "2310",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Sun Feb 20 1966 20:00:00 GMT-0400 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "11895578",
+    
+    "nombre": "MARCELA",
+    
+    "apellidoPaterno": "STAFORELLI",
+    
+    "apellidoMaterno": "VIVANCO",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "mstaforelli@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "null",
+    
+    "numeroCasa": "null",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Sun Nov 15 1970 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "16961325",
+    
+    "nombre": "PABLO",
+    
+    "apellidoPaterno": "MELLADO",
+    
+    "apellidoMaterno": "MERINO",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "reelles@gmail.com",
+    
+    "codigoPrevision": "96856780",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "FERNADEZ ALBANO",
+    
+    "numeroCasa": "null",
+    
+    "numeroDpto": "1102A",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Tue Aug 02 1988 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "16850452",
+    
+    "nombre": "CATHERINE",
+    
+    "apellidoPaterno": "RUIZ",
+    
+    "apellidoMaterno": "VERA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "catherineruizvera@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "CRUCHAGA MONTT",
+    
+    "numeroCasa": "760",
+    
+    "numeroDpto": "1502 A",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Thu Mar 03 1988 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "18139410",
+    
+    "nombre": "HECTOR",
+    
+    "apellidoPaterno": "SALAMANCA",
+    
+    "apellidoMaterno": "ALBORNOZ",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "hhsa123344@hotmail.com",
+    
+    "codigoPrevision": "96856780",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "HEROES DE LA CONCEPCIÓN",
+    
+    "numeroCasa": "251",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Tue Aug 11 1992 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "18307793",
+    
+    "nombre": "CLAUDIA",
+    
+    "apellidoPaterno": "SEVILLA",
+    
+    "apellidoMaterno": "GARRIDO",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "claudiasevillag@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "OBISPO LABBE",
+    
+    "numeroCasa": "1485",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Sat Dec 09 1978 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "27110363",
+    
+    "nombre": "YENNIFER",
+    
+    "apellidoPaterno": "SAAVEDRA",
+    
+    "apellidoMaterno": "DALY",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "yennsd15@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "SOLDADO SANCHEZ",
+    
+    "numeroCasa": "1580",
+    
+    "numeroDpto": "0",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Mon Apr 09 2001 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "4122561",
+    
+    "nombre": "CECILIA JOSEFA",
+    
+    "apellidoPaterno": "LORENZO",
+    
+    "apellidoMaterno": "SCHIAFFINO",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "pepa.lorenzo@gmail.com",
+    
+    "codigoPrevision": "94954000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "PASAJE ROSARIO",
+    
+    "numeroCasa": "23",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Wed May 03 1944 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "10605448",
+    
+    "nombre": "KATHERINE",
+    
+    "apellidoPaterno": "CONTRERAS",
+    
+    "apellidoMaterno": "QUEZADA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "kcontrerasqs@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "SANTA ROSA4490",
+    
+    "numeroCasa": "null",
+    
+    "numeroDpto": "111",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Thu Mar 13 1980 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "18060409",
+    
+    "nombre": "FRANCISCA",
+    
+    "apellidoPaterno": "DODERO",
+    
+    "apellidoMaterno": "BRAVO",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "fdoderob@gmail.com",
+    
+    "codigoPrevision": "96856780",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "DUBLE ALMEYDA 1880",
+    
+    "numeroCasa": "null",
+    
+    "numeroDpto": "54",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Wed Jan 15 1992 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "16051643",
+    
+    "nombre": "JEREMIAS",
+    
+    "apellidoPaterno": "AREVALO",
+    
+    "apellidoMaterno": "DONAIRE",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "jarevalod@hotmail.com",
+    
+    "codigoPrevision": "96572800",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "LOMA BLANCA",
+    
+    "numeroCasa": "3440",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Sat Jun 06 1981 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "15881860",
+    
+    "nombre": "CRISTIAN",
+    
+    "apellidoPaterno": "JEREZ",
+    
+    "apellidoMaterno": "ROA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "cristianjerezr@hotmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "8",
+    
+    "codigoComuna": "147",
+    
+    "calle": "VOLCAN LLULLAILLACO",
+    
+    "numeroCasa": "601",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Mon Nov 19 1984 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "14107704",
+    
+    "nombre": "LUIS NICOLAS",
+    
+    "apellidoPaterno": "SANFELIU",
+    
+    "apellidoMaterno": "SANFELIU",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "www.lnss@gmail.com",
+    
+    "codigoPrevision": "96572800",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "1",
+    
+    "codigoComuna": "174",
+    
+    "calle": "AV. CERRO DRAGON",
+    
+    "numeroCasa": "3458",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Fri Sep 09 2005 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "25543113",
+    
+    "nombre": "DAVID",
+    
+    "apellidoPaterno": "FUENTES",
+    
+    "apellidoMaterno": "ZAMBRANO",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "ing.davidfuentes@gmail.com",
+    
+    "codigoPrevision": "96856780",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "SAN LUIS DE MACUL",
+    
+    "numeroCasa": "77",
+    
+    "numeroDpto": "302 B2",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Wed Aug 18 1982 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "12619975",
+    
+    "nombre": "FELIX",
+    
+    "apellidoPaterno": "MARIN",
+    
+    "apellidoMaterno": "ROJAS",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "fmarin@srcei.cl",
+    
+    "codigoPrevision": "190",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "JULIO PRADO",
+    
+    "numeroCasa": "2075",
+    
+    "numeroDpto": "702",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Thu Jul 25 1974 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "11777698",
+    
+    "nombre": "MARCELO",
+    
+    "apellidoPaterno": "PINTO",
+    
+    "apellidoMaterno": "GOTH",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "mpintogoth3@gmail.com",
+    
+    "codigoPrevision": "96856780",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "PAILAGUALA",
+    
+    "numeroCasa": "1016",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Tue Jun 22 1971 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "12260709",
+    
+    "nombre": "CLAUDIA ANDREA",
+    
+    "apellidoPaterno": "QUEZADA",
+    
+    "apellidoMaterno": "VALENZUELA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "claudiaaqv@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "FAMASOL",
+    
+    "numeroCasa": "7741",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Sun Nov 19 1972 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "15949163",
+    
+    "nombre": "RODRIGO",
+    
+    "apellidoPaterno": "MESA",
+    
+    "apellidoMaterno": "VASQUEZ",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "rodrigo.mesa.vasquez@gmail.com",
+    
+    "codigoPrevision": "94954000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "LAS CASUARINAS ORIENTE, CURAUMA",
+    
+    "numeroCasa": "56",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Wed Sep 19 1984 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "7826709",
+    
+    "nombre": "CRISTIAN",
+    
+    "apellidoPaterno": "SOAZO",
+    
+    "apellidoMaterno": "ROJAS",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "csoazo@gmail.com",
+    
+    "codigoPrevision": "96502530",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "SAN DAMIÁN 0149",
+    
+    "numeroCasa": "null",
+    
+    "numeroDpto": "302",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Sat Oct 21 1961 20:00:00 GMT-0400 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "10177611",
+    
+    "nombre": "FRANCISCO JAVIER",
+    
+    "apellidoPaterno": "CONTRERAS",
+    
+    "apellidoMaterno": "DELGADO",
+    
+    "telefonoContacto": "944744806",
+    
+    "emailContacto": "fenixsofyvale@gmail.com",
+    
+    "codigoPrevision": "96856780",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "13",
+    
+    "codigoComuna": "349",
+    
+    "calle": "AVENIDA GRECIA",
+    
+    "numeroCasa": "1051",
+    
+    "numeroDpto": "307",
+    
+    "sector": "."
+    
+    },
+    
+    "sexo": "MA",
+    
+    "fechaNacimiento": "Wed Mar 24 1976 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "13287870",
+    
+    "nombre": "SUSANA",
+    
+    "apellidoPaterno": "HERRERA",
+    
+    "apellidoMaterno": "MONTENEGRO",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "susanaherrera.abogado@gmail.com",
+    
+    "codigoPrevision": "96522500",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "PEDRO ANTONIO GONZÁLEZ",
+    
+    "numeroCasa": "374",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Wed Jul 13 1977 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "16807872",
+    
+    "nombre": "MAKARENA DEL CARMEN",
+    
+    "apellidoPaterno": "VENEGAS",
+    
+    "apellidoMaterno": "DIAZ",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "venegas.makarena.diaz@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "CALLE 4",
+    
+    "numeroCasa": "730",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Mon Jul 11 1988 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "8768530",
+    
+    "nombre": "INGRID GEORGINA",
+    
+    "apellidoPaterno": "BALLESTEROS",
+    
+    "apellidoMaterno": "HIDALGO",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "ingridballesteros@gmail.com",
+    
+    "codigoPrevision": "190",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "EDUARDO BALLESTEROS",
+    
+    "numeroCasa": "1034",
+    
+    "numeroDpto": "POBLACION PRESIDENTE IBAÑEZ",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Thu Aug 04 1960 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "11366098",
+    
+    "nombre": "MARIA",
+    
+    "apellidoPaterno": "SALINAS",
+    
+    "apellidoMaterno": "CACERES",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "pelu.salinas@hotmail.com",
+    
+    "codigoPrevision": "96522500",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "AVENIDA MARISTA,ALTO LO CASTILLO",
+    
+    "numeroCasa": "202",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Thu Nov 13 1969 20:00:00 GMT-0400 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "12918491",
+    
+    "nombre": "PILAR",
+    
+    "apellidoPaterno": "DONETCH",
+    
+    "apellidoMaterno": "ULLOA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "pilardonetch@gmail.com",
+    
+    "codigoPrevision": "801",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "ALONSO DE CAMARGO",
+    
+    "numeroCasa": "8908",
+    
+    "numeroDpto": "145",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Tue Aug 26 1975 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "21326108",
+    
+    "nombre": "WILLARD",
+    
+    "apellidoPaterno": "STURGILL",
+    
+    "apellidoMaterno": "JR",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "WILLARD_STURGILL@HOTMAIL.COM",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "AVDA BORGONO",
+    
+    "numeroCasa": "19040",
+    
+    "numeroDpto": "602",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Thu Dec 06 1956 20:00:00 GMT-0400 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "17308951",
+    
+    "nombre": "NICOLE",
+    
+    "apellidoPaterno": "VILLARROEL",
+    
+    "apellidoMaterno": "PINILLA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "nicolepaulina4@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "MANUEL BAQUEDANO",
+    
+    "numeroCasa": "251",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Sat Jul 29 1989 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "19159738",
+    
+    "nombre": "PRUEBA TI",
+    
+    "apellidoPaterno": "RAMIREZ",
+    
+    "apellidoMaterno": "GATICA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "maria.gatica@falp.org",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "SAN JORGE",
+    
+    "numeroCasa": "2182",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Tue Jan 18 1994 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "7990775",
+    
+    "nombre": "RENE",
+    
+    "apellidoPaterno": "FONSECA",
+    
+    "apellidoMaterno": "RIQUELME",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "renefonsecar@gmail.com",
+    
+    "codigoPrevision": "96856780",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "LAS LOMAS DE MELIPILLA",
+    
+    "numeroCasa": "4",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Sun Jan 03 1960 20:00:00 GMT-0400 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "12489234",
+    
+    "nombre": "CRISTIAN HERNAN",
+    
+    "apellidoPaterno": "ROJAS",
+    
+    "apellidoMaterno": "TAPIA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "cristianrojastapia@gmail.com",
+    
+    "codigoPrevision": "190",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "HANS GEIGER",
+    
+    "numeroCasa": "129",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Wed Dec 13 1972 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "17216791",
+    
+    "nombre": "BEATRIZ",
+    
+    "apellidoPaterno": "ROBLES",
+    
+    "apellidoMaterno": "CARVAJAL",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "beatrizroblesc@gmail.com",
+    
+    "codigoPrevision": "96522500",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "VICTORIA",
+    
+    "numeroCasa": "1204",
+    
+    "numeroDpto": "303",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Mon Oct 23 1989 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "16845923",
+    
+    "nombre": "KATHERINE",
+    
+    "apellidoPaterno": "SEPULVEDA",
+    
+    "apellidoMaterno": "ARIAS",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "ksepulvedaarias@gmail.com",
+    
+    "codigoPrevision": "94954000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "CARMEN 557",
+    
+    "numeroCasa": "null",
+    
+    "numeroDpto": "901",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Mon Oct 19 1987 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "11675416",
+    
+    "nombre": "MONICA MARCELA",
+    
+    "apellidoPaterno": "OLIVARES",
+    
+    "apellidoMaterno": "ARAYA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "mmoa1970@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "LA LAVANDA",
+    
+    "numeroCasa": "1613",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Wed Sep 30 1970 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "13473269",
+    
+    "nombre": "PATRICIA",
+    
+    "apellidoPaterno": "OLIVIER",
+    
+    "apellidoMaterno": "MUÑOZ",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "bebaclaus@hotmail.com",
+    
+    "codigoPrevision": "96572800",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "VIOLETA COUSIÑO NORTE",
+    
+    "numeroCasa": "7496",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Thu Aug 03 1978 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "12340127",
+    
+    "nombre": "ALEJANDRO",
+    
+    "apellidoPaterno": "ISLA",
+    
+    "apellidoMaterno": "MONTECINOS",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "islaquitra@gmail.com",
+    
+    "codigoPrevision": "96856780",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "ANA UGALDE",
+    
+    "numeroCasa": "3015",
+    
+    "numeroDpto": "Casa",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Tue Mar 27 1973 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "15503722",
+    
+    "nombre": "PABLO ALEJANDRO",
+    
+    "apellidoPaterno": "FRANCO",
+    
+    "apellidoMaterno": "DIAZ",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "pablofrancodiaz@gmail.com",
+    
+    "codigoPrevision": "94954000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "AV JAVIERA CARRERA",
+    
+    "numeroCasa": "250",
+    
+    "numeroDpto": "401 torre 3",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Tue Mar 15 1983 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "17796476",
+    
+    "nombre": "DIEVER",
+    
+    "apellidoPaterno": "RAMIREZ",
+    
+    "apellidoMaterno": "DOMINGUEZ",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "diever.ramirez@outlook.com",
+    
+    "codigoPrevision": "96856780",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "VILLA VICTOR DOMINGO SILVA PASAJE 2",
+    
+    "numeroCasa": "1696",
+    
+    "numeroDpto": "Casa",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Fri Jun 14 1991 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "17163936",
+    
+    "nombre": "MARIA VICTORIA",
+    
+    "apellidoPaterno": "LUCERO",
+    
+    "apellidoMaterno": "HERRERA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "ma.vi.lucero@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "CERRO CASTILLO",
+    
+    "numeroCasa": "2021",
+    
+    "numeroDpto": "2021",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Mon Feb 06 1989 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "15184176",
+    
+    "nombre": "SEBASTIAN",
+    
+    "apellidoPaterno": "CONTESSE",
+    
+    "apellidoMaterno": "STRAUSS",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "scontesses@gmail.com",
+    
+    "codigoPrevision": "96502530",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "AVENIDA ANDALUE",
+    
+    "numeroCasa": "1848",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Mon Dec 13 1982 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "16973225",
+    
+    "nombre": "MIGUEL EDUARDO",
+    
+    "apellidoPaterno": "MEZA",
+    
+    "apellidoMaterno": "PARDO",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "mezamitzy@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "CALLE ANGOSTA",
+    
+    "numeroCasa": "1721",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Thu Mar 31 1960 20:00:00 GMT-0400 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "16600064",
+    
+    "nombre": "PATRICIO",
+    
+    "apellidoPaterno": "DE LA PUENTE",
+    
+    "apellidoMaterno": "CRUCES",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "p.delapuente.c@gmail.com",
+    
+    "codigoPrevision": "96856780",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "8",
+    
+    "codigoComuna": "531",
+    
+    "calle": "POSTDAM",
+    
+    "numeroCasa": "77",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Sat Aug 01 1987 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "16520469",
+    
+    "nombre": "CRISTIAN ADOLFO",
+    
+    "apellidoPaterno": "GUAJARDO",
+    
+    "apellidoMaterno": "LEVIMAN",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "CRISTIAN.LEVIMAN@GMAIL.COM",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "AV SALVADOR ALLENDE 450",
+    
+    "numeroCasa": "ED MARGARITA",
+    
+    "numeroDpto": "107",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Mon May 11 1987 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "19172475",
+    
+    "nombre": "CINTHYA",
+    
+    "apellidoPaterno": "ARMIJO",
+    
+    "apellidoMaterno": "CORTEZ",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "cinthya.beelen@gmail.com",
+    
+    "codigoPrevision": "96856780",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "WILLIAMS REBOLLEDO 2846",
+    
+    "numeroCasa": "2846",
+    
+    "numeroDpto": "2846",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Wed Jul 19 1995 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "14082903",
+    
+    "nombre": "CAROL",
+    
+    "apellidoPaterno": "JARAMILLO",
+    
+    "apellidoMaterno": "CATALAN",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "cjabril@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "MATRONA JULIA LOLAS READY",
+    
+    "numeroCasa": "631",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Mon Apr 06 1981 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "5987969",
+    
+    "nombre": "GLORIA LUZ",
+    
+    "apellidoPaterno": "PEREZ",
+    
+    "apellidoMaterno": "PIZARRO",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "perezpluz@yahoo.cl",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "6",
+    
+    "codigoComuna": "276",
+    
+    "calle": "JOSEFINA GRANGER",
+    
+    "numeroCasa": "30",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Thu Aug 28 1947 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "16396032",
+    
+    "nombre": "SANDRA",
+    
+    "apellidoPaterno": "DE LA FUENTE",
+    
+    "apellidoMaterno": "CAMPOS",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "sandra.delafuentec@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "BALMACEDA 150",
+    
+    "numeroCasa": "2",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Wed Apr 02 1986 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "16859760",
+    
+    "nombre": "DANIELA",
+    
+    "apellidoPaterno": "BARRUEL",
+    
+    "apellidoMaterno": "SOLIS",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "daniela.barruel.s@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "LOS CLAVELES",
+    
+    "numeroCasa": "543",
+    
+    "numeroDpto": "23",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Tue Jul 26 1988 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "9399417",
+    
+    "nombre": "GUILLERMO PATRICIO",
+    
+    "apellidoPaterno": "MERCADO",
+    
+    "apellidoMaterno": "PEREZ",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "guipamerca@gmail.com",
+    
+    "codigoPrevision": "190",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "AVENIDA DEL ATARDECER 4990",
+    
+    "numeroCasa": "4990",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Fri Sep 02 2005 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "17548373",
+    
+    "nombre": "KATHERINE",
+    
+    "apellidoPaterno": "AGUAYO",
+    
+    "apellidoMaterno": "SEPULVEDA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "katherine.a2604@gmail.com",
+    
+    "codigoPrevision": "190",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "COLO COLO",
+    
+    "numeroCasa": "1372",
+    
+    "numeroDpto": "605b",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Sun Nov 03 1991 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "16528403",
+    
+    "nombre": "BARBARA",
+    
+    "apellidoPaterno": "FUENTES",
+    
+    "apellidoMaterno": "PEREZ",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "Bf.prevencionista@hotmail.com",
+    
+    "codigoPrevision": "94954000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "SEGOVIA",
+    
+    "numeroCasa": "2230",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Sat Sep 27 1986 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "10948896",
+    
+    "nombre": "MARCELA ISABEL",
+    
+    "apellidoPaterno": "GONZALEZ",
+    
+    "apellidoMaterno": "CATALAN",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "mar_celaisabel@hotmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "LOS COIHUES",
+    
+    "numeroCasa": "46",
+    
+    "numeroDpto": "PARCELA 14",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Thu Feb 01 1968 20:00:00 GMT-0400 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "202442147",
+    
+    "nombre": "GUSTAVO",
+    
+    "apellidoPaterno": "CAMPUSANO",
+    
+    "apellidoMaterno": "ESPINOZA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "ocampusano@minrel.gob.cl",
+    
+    "codigoPrevision": "96572800",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "ANTONIO VARAS",
+    
+    "numeroCasa": "290",
+    
+    "numeroDpto": "202",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Tue Nov 17 1998 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "15190033",
+    
+    "nombre": "CAROLINA ANDREA",
+    
+    "apellidoPaterno": "CHAPARRO",
+    
+    "apellidoMaterno": "RUBILAR",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "caro.chaparro.rubilar03@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "MINERO RICARDO ALBORNOZ",
+    
+    "numeroCasa": "919",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Sun Sep 02 1984 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "14526116",
+    
+    "nombre": "PAOLA",
+    
+    "apellidoPaterno": "JAUREGUI",
+    
+    "apellidoMaterno": "MARCOTTI",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "paola.jauregui.m@gmail.com",
+    
+    "codigoPrevision": "96572800",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "LOS POMELOS",
+    
+    "numeroCasa": "954",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Sun Aug 01 1976 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "19969117",
+    
+    "nombre": "MACKARENA",
+    
+    "apellidoPaterno": "MORENO",
+    
+    "apellidoMaterno": "RAMIREZ",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "ms.morenoramirez@gmail.com",
+    
+    "codigoPrevision": "96856780",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "ISLA PICTON",
+    
+    "numeroCasa": "550",
+    
+    "numeroDpto": "705",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Sat Jan 11 1997 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "10854112",
+    
+    "nombre": "JAIME",
+    
+    "apellidoPaterno": "NUÑEZ",
+    
+    "apellidoMaterno": "COLIN",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "lunacifuentes@hotmail.com",
+    
+    "codigoPrevision": "96856780",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "PAULINA",
+    
+    "numeroCasa": "7650",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Thu Jul 16 1970 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "20221355",
+    
+    "nombre": "FERNANDA",
+    
+    "apellidoPaterno": "AHUMADA",
+    
+    "apellidoMaterno": "LEON",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "ahumada.fernanda1324@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "TIRSO DE MOLINA",
+    
+    "numeroCasa": "5568",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Sun Aug 15 1999 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "19742995",
+    
+    "nombre": "CHRIS RONALD",
+    
+    "apellidoPaterno": "ZBINDEN",
+    
+    "apellidoMaterno": "TOBAR",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "chriszbinden28@gmail.com",
+    
+    "codigoPrevision": "96572800",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "CAUQUENES",
+    
+    "numeroCasa": "60",
+    
+    "numeroDpto": "905",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Wed Aug 27 1997 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "21812925",
+    
+    "nombre": "MARISOL",
+    
+    "apellidoPaterno": "COSTA",
+    
+    "apellidoMaterno": "COSTA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "marisol@cecs.cl",
+    
+    "codigoPrevision": "190",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "AYQUINA",
+    
+    "numeroCasa": "362",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Fri Mar 30 1979 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "10422467",
+    
+    "nombre": "PRUEBA",
+    
+    "apellidoPaterno": "PRUEBA",
+    
+    "apellidoMaterno": "PRUEBA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "jabes.f.salazar@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "null",
+    
+    "numeroCasa": "null",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Mon Dec 19 2005 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "14589718",
+    
+    "nombre": "JOSE",
+    
+    "apellidoPaterno": "BARAHONA",
+    
+    "apellidoMaterno": "ARAYA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "j.barahona.araya@gmail.com",
+    
+    "codigoPrevision": "94954000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "LOS EXPLORADORES 14.177",
+    
+    "numeroCasa": "58",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Tue Feb 12 1980 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "19349120",
+    
+    "nombre": "NATASHA",
+    
+    "apellidoPaterno": "ESCARATE",
+    
+    "apellidoMaterno": "FLORES",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "n.escarate.flores@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "AV. GABRIEL GONZALEZ VIDELA",
+    
+    "numeroCasa": "889",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Sun Sep 08 1996 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "13791438",
+    
+    "nombre": "LAUTARO",
+    
+    "apellidoPaterno": "MORALES",
+    
+    "apellidoMaterno": "RETAMAL",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "paomoralesn@gmail.com",
+    
+    "codigoPrevision": "802",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "PABLO NERUDA",
+    
+    "numeroCasa": "202",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Wed May 02 1951 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "16433408",
+    
+    "nombre": "MARIA BERNARDITA",
+    
+    "apellidoPaterno": "BECERRA",
+    
+    "apellidoMaterno": "VALENZUELA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "BERNARDITA.BECERRA.V@GMAIL.COM",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "HACIENDA LOLOL",
+    
+    "numeroCasa": "0",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Wed Jan 21 1987 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "17966277",
+    
+    "nombre": "CORAL",
+    
+    "apellidoPaterno": "GALAZ",
+    
+    "apellidoMaterno": "CABEZAS",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "KORY.GALAZ@GMAIL.COM",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "RINCON LOS PERALES SN",
+    
+    "numeroCasa": "0",
+    
+    "numeroDpto": "0",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Sat Mar 21 1992 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "11579637",
+    
+    "nombre": "MANUEL",
+    
+    "apellidoPaterno": "REBOLLEDO",
+    
+    "apellidoMaterno": "ALVAREZ",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "manolo12396@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "VICTORIA",
+    
+    "numeroCasa": "1230",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Tue Sep 22 1970 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "10732071",
+    
+    "nombre": "CORA ISABEL",
+    
+    "apellidoPaterno": "SEPULVEDA",
+    
+    "apellidoMaterno": "GAJARDO",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "Coraxsepulveda@gmail.com",
+    
+    "codigoPrevision": "94954000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "13",
+    
+    "codigoComuna": "326",
+    
+    "calle": "URMENETA",
+    
+    "numeroCasa": "561",
+    
+    "numeroDpto": "A",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Sun Jul 07 1968 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "11239120",
+    
+    "nombre": "SILVANA DEL CARMEN",
+    
+    "apellidoPaterno": "ISLA",
+    
+    "apellidoMaterno": "VENEGAS",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "sive2706@yahoo.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "8",
+    
+    "codigoComuna": "140",
+    
+    "calle": "POBLACIÓN BRICEÑO 1",
+    
+    "numeroCasa": "2867",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Sat Feb 24 1968 20:00:00 GMT-0400 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "10084119",
+    
+    "nombre": "ISABEL MARGARITA",
+    
+    "apellidoPaterno": "NIEDMANN",
+    
+    "apellidoMaterno": "HERNANDEZ",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "isaniedmannh@gmail.com",
+    
+    "codigoPrevision": "802",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "PASAJE LOS COIHUES",
+    
+    "numeroCasa": "870",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Sun Jan 22 1978 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "15295897",
+    
+    "nombre": "MARIA JOSE",
+    
+    "apellidoPaterno": "NADALES",
+    
+    "apellidoMaterno": "ILLAPAN",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "bbttzzbb@gmail.com",
+    
+    "codigoPrevision": "96856780",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "PASAJE MIRAFLORES",
+    
+    "numeroCasa": "1583",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Wed Jun 23 1982 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "17523668",
+    
+    "nombre": "ALEXIS",
+    
+    "apellidoPaterno": "LOPEZ",
+    
+    "apellidoMaterno": "ESCANILLA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "alexis.lpz.e@gmail.com",
+    
+    "codigoPrevision": "190",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "NUEVA TRAPICHE",
+    
+    "numeroCasa": "2983",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Tue Aug 13 1991 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "16277689",
+    
+    "nombre": "ALEJANDRO",
+    
+    "apellidoPaterno": "PINTO",
+    
+    "apellidoMaterno": "PINTO",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "alejandropintop@gmail.com",
+    
+    "codigoPrevision": "96572800",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "CUADRO VERDE",
+    
+    "numeroCasa": "150",
+    
+    "numeroDpto": "torre 5 depto 103",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Mon Feb 03 1986 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "11575744",
+    
+    "nombre": "SUSANA",
+    
+    "apellidoPaterno": "CORREA",
+    
+    "apellidoMaterno": "GUEVARA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "srcg-3.0@hotmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "LOS ARRAYANES - VILLA EL BOSQUE",
+    
+    "numeroCasa": "1143",
+    
+    "numeroDpto": "Casa",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Mon Oct 05 1970 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "17789048",
+    
+    "nombre": "LUIS",
+    
+    "apellidoPaterno": "AGUILA",
+    
+    "apellidoMaterno": "VARGAS",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "felipe.aguilavargas@gmail.com",
+    
+    "codigoPrevision": "96572800",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "NATANIEL COX",
+    
+    "numeroCasa": "135",
+    
+    "numeroDpto": "1225",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Fri Jan 31 1992 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "13529707",
+    
+    "nombre": "ISELLA",
+    
+    "apellidoPaterno": "TELLO",
+    
+    "apellidoMaterno": "TABILO",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "isellatello@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "AVDA. MAGALLANES MOURE",
+    
+    "numeroCasa": "813",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Fri Oct 19 1979 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "7290298",
+    
+    "nombre": "ELIZABETH VICTORIA",
+    
+    "apellidoPaterno": "ALEMANY",
+    
+    "apellidoMaterno": "CALDERON",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "ps.ealemanyc@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "EMILIA LASCAR",
+    
+    "numeroCasa": "201",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Sat Sep 28 1957 20:00:00 GMT-0400 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "13628953",
+    
+    "nombre": "PATRICIO",
+    
+    "apellidoPaterno": "LAGOS",
+    
+    "apellidoMaterno": "REBOLLEDO",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "plagos@uct.cl",
+    
+    "codigoPrevision": "94954000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "LA VERTIENTE",
+    
+    "numeroCasa": "570",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Sat Jan 06 1979 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "26570751",
+    
+    "nombre": "WANDA KATERINE",
+    
+    "apellidoPaterno": "CARPIO",
+    
+    "apellidoMaterno": "RODRIGUEZ",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "wanditaru10@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "VENEZUELA",
+    
+    "numeroCasa": "2977",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Sun May 24 1992 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "12311760",
+    
+    "nombre": "MILENA",
+    
+    "apellidoPaterno": "RUIZ",
+    
+    "apellidoMaterno": "UYEVIC",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "milenaruizu@gmail.com",
+    
+    "codigoPrevision": "94954000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "VLADIMIR COVACEVIC",
+    
+    "numeroCasa": "916",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Thu Aug 03 1972 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "16311226",
+    
+    "nombre": "NICOLAS",
+    
+    "apellidoPaterno": "AMAYA",
+    
+    "apellidoMaterno": "FONTT",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "nicolas.amayaf@gmail.com",
+    
+    "codigoPrevision": "94954000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "AVELINO BARROS",
+    
+    "numeroCasa": "50",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Wed Dec 16 1987 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "23877846",
+    
+    "nombre": "VERONICA",
+    
+    "apellidoPaterno": "RODRIGUEZ",
+    
+    "apellidoMaterno": "MENDOZA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "verodriguezm@hotmail.com",
+    
+    "codigoPrevision": "190",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "SUCRE 3160",
+    
+    "numeroCasa": "3160",
+    
+    "numeroDpto": "515",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Tue Mar 16 1971 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "12592422",
+    
+    "nombre": "CHRISTIAN",
+    
+    "apellidoPaterno": "TUEMMERS",
+    
+    "apellidoMaterno": "APABLAZA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "ctuemmers@yahoo.es",
+    
+    "codigoPrevision": "94954000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "PAULA JARAQUEMADA",
+    
+    "numeroCasa": "2714",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Fri Mar 08 1974 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "12815685",
+    
+    "nombre": "ALEX",
+    
+    "apellidoPaterno": "FUENTES",
+    
+    "apellidoMaterno": "PALACIOS",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "alfuentes@pelambres.cl",
+    
+    "codigoPrevision": "190",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "RUTA D-81",
+    
+    "numeroCasa": "1000",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Wed Dec 25 1974 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "12621505",
+    
+    "nombre": "GENOVEVA",
+    
+    "apellidoPaterno": "SILVA",
+    
+    "apellidoMaterno": "CANCINO",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "g_silcan@hotmail.com",
+    
+    "codigoPrevision": "802",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "GREGORIO MARAÑON",
+    
+    "numeroCasa": "1076",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Thu Mar 28 1974 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "15590052",
+    
+    "nombre": "CONSTANZA",
+    
+    "apellidoPaterno": "LARA",
+    
+    "apellidoMaterno": "MENENDEZ",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "cotylara@gmail.com",
+    
+    "codigoPrevision": "190",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "YORK",
+    
+    "numeroCasa": "96",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Sun Apr 03 1983 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "12399952",
+    
+    "nombre": "WALDO WLADIMIR",
+    
+    "apellidoPaterno": "ASTUDILLO",
+    
+    "apellidoMaterno": "QUEZADA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "waldo_astudillo@yahoo.com",
+    
+    "codigoPrevision": "96572800",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "PASAJE BACH",
+    
+    "numeroCasa": "554",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Sun Jul 08 1973 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "8487461",
+    
+    "nombre": "INGE",
+    
+    "apellidoPaterno": "CLAUSSEN",
+    
+    "apellidoMaterno": "STEUER",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "ingeclaussen@gmail.com",
+    
+    "codigoPrevision": "190",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "13",
+    
+    "codigoComuna": "343",
+    
+    "calle": "SANTA RITA",
+    
+    "numeroCasa": "979",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Tue Jan 28 1964 20:00:00 GMT-0400 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "12445596",
+    
+    "nombre": "CARLOS",
+    
+    "apellidoPaterno": "ASTUDILLO",
+    
+    "apellidoMaterno": "DE LA ROSA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "astudillodelarosa@gmail.com",
+    
+    "codigoPrevision": "94954000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "AVENIDA ESTADIO",
+    
+    "numeroCasa": "4917",
+    
+    "numeroDpto": "39",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Ma",
+    
+    "fechaNacimiento": "Tue Mar 06 1973 21:00:00 GMT-0300 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "10411269",
+    
+    "nombre": "JOVITA DE LAS MARIAS",
+    
+    "apellidoPaterno": "FIGUEROA",
+    
+    "apellidoMaterno": "CARRERA",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "jovitafc@gmail.com",
+    
+    "codigoPrevision": "96572800",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "LAS GARDENIAS",
+    
+    "numeroCasa": "1985",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Tue Dec 14 1965 20:00:00 GMT-0400 (hora de verano de Chile)"
+    
+    },
+  {
+
+    "tipoDocumento": "1",
+    
+    "numeroDocumento": "21060323",
+    
+    "nombre": "VALESCA",
+    
+    "apellidoPaterno": "FLORES",
+    
+    "apellidoMaterno": "CARVAJAL",
+    
+    "telefonoContacto": "null",
+    
+    "emailContacto": "valescaflores.carvajal@gmail.com",
+    
+    "codigoPrevision": "61603000",
+    
+    "direccion": {
+    
+    "codigoPais": "nada",
+    
+    "codigoRegion": "0",
+    
+    "codigoComuna": "0",
+    
+    "calle": "LIBIA",
+    
+    "numeroCasa": "1318",
+    
+    "numeroDpto": "null",
+    
+    "sector": "null"
+    
+    },
+    
+    "sexo": "Fe",
+    
+    "fechaNacimiento": "Tue Jun 25 2002 20:00:00 GMT-0400 (hora estándar de Chile)"
+    
+    },
